@@ -1,6 +1,7 @@
 # Prova-de-LOP
 Código da prova
 <script>
+  //link para o video explicativo: https://drive.google.com/file/d/1YZU9E8mLfX4gpeoxPjREWszrTBuMrEOC/view?usp=sharing
   var esporte = prompt("Digite seu esporte (Futebol, natação, surf e LOL):")
   var idade = parseInt(prompt("Digite sua idade:"))
   var categoria
